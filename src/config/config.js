@@ -11,9 +11,9 @@ dotenv.config();
 export const config = {
   token:
     process.env.token ||
-    "yourtokenhere",
+    "MTUwMjkyMzA5NTgzNTY3MjY4Nw.G6rZt8.R1fXuVILiZZLzbFccjUtdTMDApea-MgV1TELC0",
 
-  clientId: "botclientidhere",
+  clientId: "1502923095835672687",
   prefix: process.env.PREFIX || ".",
 
 
@@ -27,10 +27,10 @@ export const config = {
     supportServer: "https://discord.gg/aerox",
     github: "https://github.com/OpenUwU",
     invite:
-      "https://discord.com/api/oauth2/authorize?client_id624000&permissions=8&scope=bot",
+      "https://discord.com/oauth2/authorize?client_id=1502923095835672687&permissions=8&integration_type=0&scope=bot",
   },
 
-  watermark: "coded by bre4d",
+  watermark: "coded by Luffy",
   version: "2.0.0",
 };
 
